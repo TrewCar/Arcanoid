@@ -1,0 +1,11 @@
+C:\Users\fasda\source\repos\Arcanoid\bin\Debug\Arcanoid.exe.config
+C:\Users\fasda\source\repos\Arcanoid\bin\Debug\Arcanoid.exe
+C:\Users\fasda\source\repos\Arcanoid\bin\Debug\Arcanoid.pdb
+C:\Users\fasda\source\repos\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache
+C:\Users\fasda\source\repos\Arcanoid\obj\Debug\Arcanoid.csproj.SuggestedBindingRedirects.cache
+C:\Users\fasda\source\repos\Arcanoid\obj\Debug\Arcanoid.Form1.resources
+C:\Users\fasda\source\repos\Arcanoid\obj\Debug\Arcanoid.Properties.Resources.resources
+C:\Users\fasda\source\repos\Arcanoid\obj\Debug\Arcanoid.csproj.GenerateResource.cache
+C:\Users\fasda\source\repos\Arcanoid\obj\Debug\Arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\fasda\source\repos\Arcanoid\obj\Debug\Arcanoid.exe
+C:\Users\fasda\source\repos\Arcanoid\obj\Debug\Arcanoid.pdb
